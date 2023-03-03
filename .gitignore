@@ -3,3 +3,8 @@
 .Rdata
 .httr-oauth
 .DS_Store
+*.RDS
+*.xlsx
+*.csv
+data/
+.Renviron
